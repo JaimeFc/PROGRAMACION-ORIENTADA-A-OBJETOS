@@ -1,4 +1,5 @@
 # Definición de la clase Cliente
+print("HOTEL J&C")
 class Cliente:
     def __init__(self, nombre, correo):
         self.nombre = nombre  # Atributo nombre
