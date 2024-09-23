@@ -8,7 +8,7 @@ class AgendaApp:
         self.root = root
         self.root.title("AGENDA PERSONAL")
         self.root.geometry("700x600")
-        self.root.configure(background="silver")
+        self.root.configure(background="LightCyan4")
 
         # Variable para rastrear el evento que se está editando
         self.editing_event = None
